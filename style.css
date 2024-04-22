@@ -216,6 +216,8 @@
     text-align:center;
     color:#fd5676;
     font-family: "Protest Strike", sans-serif; 
+    font-size: 3rem;
+    padding-top: 2cap;
   }
   .accordion {
     background-color: #fca5b1;
